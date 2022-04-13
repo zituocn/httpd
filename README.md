@@ -16,11 +16,13 @@ go build
 
 ### 下载二进制版本
 
-* Windows
-* Linux 
-* MacOS 
-* FreeBSD 
-* ARM 
+* [Windows x64](https://github.com/zituocn/httpd/releases/download/v0.0.1/httpd_windows_amd64.exe)
+* [Linux x64](https://github.com/zituocn/httpd/releases/download/v0.0.1/httpd_linux_amd64)
+* [MacOS x64](https://github.com/zituocn/httpd/releases/download/v0.0.1/httpd_darwin_amd64)
+* [MacOS ARM64](https://github.com/zituocn/httpd/releases/download/v0.0.1/httpd_darwin_arm64)
+* [FreeBSD](https://github.com/zituocn/httpd/releases/download/v0.0.1/httpd_freebsd_amd64)
+* [更多下载...](https://github.com/zituocn/httpd/releases)
+
 
 
 ### 使用
